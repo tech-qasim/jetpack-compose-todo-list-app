@@ -38,8 +38,4 @@ object AppModule {
         TodoRepositoryImpl(dao)
 
 
-
-
-
-
 }
